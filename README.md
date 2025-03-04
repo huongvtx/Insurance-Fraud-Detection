@@ -1,6 +1,6 @@
 # Insurance Fraud Detection
 
-Fraud detection is one of the most popular applications of machine learning in anti-financial crime prevention. In this experiment, we will be working with a dataset containing over 500k insurance claims and 55 features around patients, practitioners, and healthcare providers.
+Fraud detection is one of the most popular applications of machine learning in anti-financial crime activities. In this experiment, we will be working with a dataset containing over 500k insurance claims and 55 features around patients, practitioners, and healthcare providers.
 
 This dataset can be found at https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis
 
